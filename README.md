@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-Hey there! I'm Tittu, a passionate Data Science Intern with a strong interest in the realms of AI, Machine Learning, Deep Learning, and Computer Vision. I'm on a journey to unravel the potential of data and turn it into meaningful insights that drive impactful decisions.
+Hey there! I'm Tittu, an AI Enthusiast with a strong interest in the realms of AI, Machine Learning, Deep Learning, and Computer Vision. I'm on a journey to unravel the potential of data and turn it into meaningful insights that drive impactful decisions.
 
 ### 🌟 What I'm Working On
 
